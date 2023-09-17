@@ -1,0 +1,382 @@
+[
+    {
+      "id": 1,
+      "name": "Mehedi Hasan",
+      "image": "https://biographybd.com/wp-content/uploads/2022/12/Mehedi-Hasan-Miraz-1.jpg",
+      "age": 25,
+      "salary": "$50,000",
+      "strike_rate": 78.23,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 62,
+        "runs": 1150,
+        "wickets": 68
+      },
+      "t20_record": {
+        "matches": 45,
+        "runs": 356,
+        "wickets": 29
+      }
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "image": "https://www.bssnews.net/assets/news_photos/2022/03/23/image-51989-1648055966.jpg",
+      "age": 32,
+      "salary": "$70,000",
+      "strike_rate": 83.45,
+      "position": "Batsman",
+      "odi_record": {
+        "matches": 208,
+        "runs": 7700,
+        "wickets": 12
+      },
+      "t20_record": {
+        "matches": 78,
+        "runs": 2100,
+        "wickets": 5
+      }
+    },
+    {
+      "id": 3,
+      "name": "Shakib Al Hasan",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2023/03/gettyimages-1472307522-1-1680093625.jpg",
+      "age": 34,
+      "salary": "$90,000",
+      "strike_rate": 86.78,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 200,
+        "runs": 5900,
+        "wickets": 264
+      },
+      "t20_record": {
+        "matches": 75,
+        "runs": 1700,
+        "wickets": 92
+      }
+    },
+    {
+      "id": 4,
+      "name": "Mushfiqur Rahim",
+      "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170916/mushfiqur-rahim.jpg",
+      "age": 33,
+      "salary": "$65,000",
+      "strike_rate": 78.91,
+      "position": "Wicket-Keeper",
+      "odi_record": {
+        "matches": 215,
+        "runs": 6200,
+        "wickets": 2
+      },
+      "t20_record": {
+        "matches": 89,
+        "runs": 1950,
+        "wickets": 0
+      }
+    },
+    {
+      "id": 5,
+      "name": "Mustafizur Rahman",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegEJBjYVXWn_EFZQk9HYPmNgnzQngjKsReTfoUJD-T9e0kVKRVZRPJCWyYKbc-oMTw8A&usqp=CAU",
+      "age": 26,
+      "salary": "$55,000",
+      "strike_rate": 19.87,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 52,
+        "runs": 180,
+        "wickets": 103
+      },
+      "t20_record": {
+        "matches": 34,
+        "runs": 40,
+        "wickets": 46
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mahmudullah",
+      "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-688893664-e1517998417825.jpg",
+      "age": 31,
+      "salary": "$60,000",
+      "strike_rate": 78.69,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 187,
+        "runs": 3900,
+        "wickets": 140
+      },
+      "t20_record": {
+        "matches": 70,
+        "runs": 1340,
+        "wickets": 53
+      }
+    },
+    {
+      "id": 7,
+      "name": "Soumya Sarkar",
+      "image": "https://fancyodds.com/wp-content/uploads/2020/07/ao.jpg",
+      "age": 28,
+      "salary": "$45,000",
+      "strike_rate": 87.12,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 85,
+        "runs": 2100,
+        "wickets": 34
+      },
+      "t20_record": {
+        "matches": 42,
+        "runs": 790,
+        "wickets": 16
+      }
+    },
+    {
+      "id": 8,
+      "name": "Taskin Ahmed",
+      "image": "https://resources.pulse.icc-cricket.com/players/284/1839.png",
+      "age": 27,
+      "salary": "$50,000",
+      "strike_rate": 21.36,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 47,
+        "runs": 48,
+        "wickets": 68
+      },
+      "t20_record": {
+        "matches": 26,
+        "runs": 20,
+        "wickets": 32
+      }
+    },
+    {
+      "id": 9,
+      "name": "Liton Das",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYWAf3sMXqy5R6bRTC6w7N0hCy_y0ER7nQXqBrasRFyqgs1C-ltYopkCSWN1M0cRUAO14&usqp=CAU",
+      "age": 26,
+      "salary": "$40,000",
+      "strike_rate": 81.55,
+      "position": "Batsman",
+      "odi_record": {
+        "matches": 41,
+        "runs": 1080,
+        "wickets": 0
+      },
+      "t20_record": {
+        "matches": 18,
+        "runs": 420,
+        "wickets": 0
+      }
+    },
+    {
+      "id": 11,
+      "name": "Najmul Hossain Shanto",
+      "image": "https://resources.pulse.icc-cricket.com/players/210/1586.png",
+      "age": 23,
+      "salary": "$35,000",
+      "strike_rate": 74.32,
+      "position": "Batsman",
+      "odi_record": {
+        "matches": 17,
+        "runs": 450,
+        "wickets": 0
+      },
+      "t20_record": {
+        "matches": 12,
+        "runs": 180,
+        "wickets": 0
+      }
+    },
+    {
+      "id": 12,
+      "name": "Afif Hossain",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323159.png",
+      "age": 21,
+      "salary": "$30,000",
+      "strike_rate": 102.67,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 9,
+        "runs": 140,
+        "wickets": 5
+      },
+      "t20_record": {
+        "matches": 10,
+        "runs": 210,
+        "wickets": 6
+      }
+    },
+    {
+      "id": 13,
+      "name": "Rubel Hossain",
+      "image": "https://images.cricket.com/players/4371_headshot_safari.png",
+      "age": 31,
+      "salary": "$40,000",
+      "strike_rate": 23.45,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 104,
+        "runs": 140,
+        "wickets": 128
+      },
+      "t20_record": {
+        "matches": 44,
+        "runs": 20,
+        "wickets": 55
+      }
+    },
+    {
+      "id": 14,
+      "name": "Taijul Islam",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316675.png",
+      "age": 29,
+      "salary": "$35,000",
+      "strike_rate": 13.67,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 22,
+        "runs": 10,
+        "wickets": 18
+      },
+      "t20_record": {
+        "matches": 14,
+        "runs": 5,
+        "wickets": 12
+      }
+    },
+    {
+      "id": 15,
+      "name": "Aminul Islam",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIQKl46lzyAdD79hyCklKLx1YMTx2WIC1AmZ04_QjTR72jVIsDgaimFmn1JotzSnS6fE&usqp=CAU",
+      "age": 27,
+      "salary": "$30,000",
+      "strike_rate": 56.78,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 8,
+        "runs": 50,
+        "wickets": 6
+      },
+      "t20_record": {
+        "matches": 6,
+        "runs": 30,
+        "wickets": 4
+      }
+    },
+    {
+      "id": 16,
+      "name": "Mohammad Naim",
+      "image": "https://cricclubs.com/documentsRep/profilePics/e2f22291-2312-4c41-961a-a71201d23723.png",
+      "age": 22,
+      "salary": "$35,000",
+      "strike_rate": 109.12,
+      "position": "Batsman",
+      "odi_record": {
+        "matches": 12,
+        "runs": 340,
+        "wickets": 0
+      },
+      "t20_record": {
+        "matches": 18,
+        "runs": 580,
+        "wickets": 0
+      }
+    },
+    {
+      "id": 17,
+      "name": "Abu Jayed",
+      "image": "https://m.cricbuzz.com/a/img/v1/192x192/i1/c170927/abu-jayed.jpg",
+      "age": 27,
+      "salary": "$30,000",
+      "strike_rate": 16.45,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 9,
+        "runs": 5,
+        "wickets": 7
+      },
+      "t20_record": {
+        "matches": 6,
+        "runs": 2,
+        "wickets": 9
+      }
+    },
+    {
+      "id": 18,
+      "name": "Nasum Ahmed",
+      "image": "https://resources.pulse.icc-cricket.com/players/33992/284/19994.png",
+      "age": 24,
+      "salary": "$25,000",
+      "strike_rate": 15.78,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 7,
+        "runs": 8,
+        "wickets": 11
+      },
+      "t20_record": {
+        "matches": 9,
+        "runs": 6,
+        "wickets": 16
+      }
+    },
+    {
+      "id": 20,
+      "name": "Mosaddek Hossain",
+      "image": "https://resources.pulse.icc-cricket.com/players/210/1588.png",
+      "age": 26,
+      "salary": "$35,000",
+      "strike_rate": 75.89,
+      "position": "All-Rounder",
+      "odi_record": {
+        "matches": 34,
+        "runs": 610,
+        "wickets": 22
+      },
+      "t20_record": {
+        "matches": 19,
+        "runs": 260,
+        "wickets": 14
+      }
+    },
+    {
+      "id": 21,
+      "name": "Shoriful Islam",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323175.png",
+      "age": 20,
+      "salary": "$25,000",
+      "strike_rate": 18.56,
+      "position": "Bowler",
+      "odi_record": {
+        "matches": 5,
+        "runs": 3,
+        "wickets": 7
+      },
+      "t20_record": {
+        "matches": 7,
+        "runs": 4,
+        "wickets": 9
+      }
+    },
+    {
+      "id": 22,
+      "name": "Nurul Hasan",
+      "image": "https://alchetron.com/cdn/nurul-hasan-cricketer-0d958595-021d-4537-aa99-1eba87d9e9a.webp",
+      "age": 27,
+      "salary": "$30,000",
+      "strike_rate": 76.45,
+      "position": "Wicket-Keeper",
+      "odi_record": {
+        "matches": 15,
+        "runs": 290,
+        "wickets": 0
+      },
+      "t20_record": {
+        "matches": 9,
+        "runs": 140,
+        "wickets": 0
+      }
+    }
+  ]
